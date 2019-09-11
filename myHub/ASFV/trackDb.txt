@@ -9,6 +9,42 @@ type bigBed 9 +
 bigDataUrl bbi/genes.bb
 
 
+track RNA_early_bamCoverage
+group RNA-seq
+container multiWig
+shortLabel early
+longLabel early 5h
+type bigWig
+#viewLimits 0:160
+visibility full
+aggregate stacked
+graphTypeDefault bar
+showSubtrackColorOnUi on
+windowingFunction maximum
+priority 80
+configurable on
+autoScale on
+
+track S3-5h_cov_plus_bc
+longLabel RNA-seq early 5h S3 plus
+shortLabel RNA early S3 plus
+group RNA-seq
+parent RNA_early_bamCoverage
+visibility pack
+type bigWig
+color 70,162,225
+bigDataUrl bbi/Bowtie2_S3-5h_plus_rpkm.bw
+
+track S3-5h_cov_minus_bc
+longLabel RNA-seq early 5h S3 minus
+shortLabel RNA early S3 minus
+group RNA-seq
+parent RNA_early_bamCoverage
+visibility pack
+type bigWig
+color 203,75,21
+bigDataUrl bbi/Bowtie2_S3-5h_minus_rpkm.bw
+
 
 track RNA_early
 group RNA-seq
