@@ -52,7 +52,7 @@ group CAGE-seq
 parent early
 visibility pack
 type bigWig
-color 70,162,225
+color 22,96,167
 bigDataUrl bbi/S2-5h_5cov+.bw
 
 track S2-5h_5cov_minus
@@ -62,7 +62,7 @@ group CAGE-seq
 parent early
 visibility pack
 type bigWig
-color 203,75,21
+color 255,106,0
 bigDataUrl bbi/S2-5h_5cov-.bw
 
 
@@ -109,7 +109,7 @@ group CAGE-seq
 parent late
 visibility pack
 type bigWig
-color 70,162,225
+color 22,96,167
 bigDataUrl bbi/S4-16h_5cov+.bw
 
 track S4-16h_5cov_minus
@@ -119,6 +119,6 @@ group CAGE-seq
 parent late
 visibility pack
 type bigWig
-color 203,75,21
+color 255,106,0
 bigDataUrl bbi/S4-16h_5cov-.bw
 
