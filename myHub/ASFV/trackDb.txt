@@ -18,8 +18,8 @@ longLabel early 5h
 type bigWig
 #viewLimits 0:160
 visibility full
-aggregate transparentOverlay
-graphTypeDefault points
+aggregate stacked
+graphTypeDefault bar
 showSubtrackColorOnUi on
 windowingFunction maximum
 priority 80
@@ -75,8 +75,8 @@ longLabel late 16h
 type bigWig
 #viewLimits 0:160
 visibility full
-aggregate transparentOverlay
-graphTypeDefault points
+aggregate stacked
+graphTypeDefault bar
 showSubtrackColorOnUi on
 windowingFunction maximum
 priority 80
