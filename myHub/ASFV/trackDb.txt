@@ -9,7 +9,125 @@ type bigBed 9 +
 bigDataUrl bbi/genes.bb
 
 
-track early
+
+track RNA_early
+group RNA-seq
+container multiWig
+shortLabel early
+longLabel early 5h
+type bigWig
+#viewLimits 0:160
+visibility full
+aggregate transparentOverlay
+graphTypeDefault points
+showSubtrackColorOnUi on
+windowingFunction maximum
+priority 80
+configurable on
+autoScale on
+
+track S3-5h_cov_plus
+longLabel RNA-seq early 5h S3 plus
+shortLabel RNA early S3 plus
+group RNA-seq
+parent RNA_early
+visibility pack
+type bigWig
+color 70,162,225
+bigDataUrl bbi/S3-5h_cov+.bw
+
+track S3-5h_cov_minus
+longLabel RNA-seq early 5h S3 minus
+shortLabel RNA early S3 minus
+group RNA-seq
+parent RNA_early
+visibility pack
+type bigWig
+color 203,75,21
+bigDataUrl bbi/S3-5h_cov-.bw
+
+track S4-5h_cov_plus
+longLabel RNA-seq early 5h S4 plus
+shortLabel RNA early S4 plus
+group RNA-seq
+parent RNA_early
+visibility pack
+type bigWig
+color 22,96,167
+bigDataUrl bbi/S4-5h_cov+.bw
+
+track S4-5h_cov_minus
+longLabel RNA-seq early 5h S4 minus
+shortLabel RNA early S4 minus
+group RNA-seq
+parent RNA_early
+visibility pack
+type bigWig
+color 255,106,0
+bigDataUrl bbi/S4-5h_cov-.bw
+
+
+track RNA_late
+group RNA-seq
+container multiWig
+shortLabel late
+longLabel late 16h
+type bigWig
+#viewLimits 0:160
+visibility full
+aggregate transparentOverlay
+graphTypeDefault points
+showSubtrackColorOnUi on
+windowingFunction maximum
+priority 80
+configurable on
+autoScale on
+
+track S5-16h_cov_plus
+longLabel RNA-seq late 16h S5 plus
+shortLabel RNA late S5 plus
+group RNA-seq
+parent RNA_late
+visibility pack
+type bigWig
+color 70,162,225
+bigDataUrl bbi/S5-16h_cov+.bw
+
+track S5-16h_cov_minus
+longLabel RNA-seq late 16h S5 minus
+shortLabel RNA late S5 minus
+group RNA-seq
+parent RNA_late
+visibility pack
+type bigWig
+color 203,75,21
+bigDataUrl bbi/S5-16h_cov-.bw
+
+track S6-16h_cov_plus
+longLabel RNA-seq late 16h S6 plus
+shortLabel RNA late S6 plus
+group RNA-seq
+parent RNA_late
+visibility pack
+type bigWig
+color 22,96,167
+bigDataUrl bbi/S6-16h_cov+.bw
+
+track S6-16h_cov_minus
+longLabel RNA-seq late 16h S6 minus
+shortLabel RNA late S6 minus
+group RNA-seq
+parent RNA_late
+visibility pack
+type bigWig
+color 255,106,0
+bigDataUrl bbi/S6-16h_cov-.bw
+
+
+
+
+
+track CAGE_early
 group CAGE-seq
 container multiWig
 shortLabel early
@@ -29,7 +147,7 @@ track S1-5h_5cov_plus
 longLabel CAGE-seq early 5h S1 plus, 5' ends
 shortLabel CAGE early S1 plus
 group CAGE-seq
-parent early
+parent CAGE_early
 visibility pack
 type bigWig
 color 70,162,225
@@ -39,7 +157,7 @@ track S1-5h_5cov_minus
 longLabel CAGE-seq early 5h S1 minus, 5' ends
 shortLabel CAGE early S1 minus
 group CAGE-seq
-parent early
+parent CAGE_early
 visibility pack
 type bigWig
 color 203,75,21
@@ -49,7 +167,7 @@ track S2-5h_5cov_plus
 longLabel CAGE-seq early 5h S2 plus, 5' ends
 shortLabel CAGE early S2 plus
 group CAGE-seq
-parent early
+parent CAGE_early
 visibility pack
 type bigWig
 color 22,96,167
@@ -59,14 +177,14 @@ track S2-5h_5cov_minus
 longLabel CAGE-seq early 5h S2 minus, 5' ends
 shortLabel CAGE early S2 minus
 group CAGE-seq
-parent early
+parent CAGE_early
 visibility pack
 type bigWig
 color 255,106,0
 bigDataUrl bbi/S2-5h_5cov-.bw
 
 
-track late
+track CAGE_late
 group CAGE-seq
 container multiWig
 shortLabel late
@@ -86,7 +204,7 @@ track S3-16h_5cov_plus
 longLabel CAGE-seq late 16h S3 plus, 5' ends
 shortLabel CAGE late S3 plus
 group CAGE-seq
-parent late
+parent CAGE_late
 visibility pack
 type bigWig
 color 70,162,225
@@ -96,7 +214,7 @@ track S3-16h_5cov_minus
 longLabel CAGE-seq late 16h S3 minus, 5' ends
 shortLabel CAGE late S3 minus
 group CAGE-seq
-parent late
+parent CAGE_late
 visibility pack
 type bigWig
 color 203,75,21
@@ -106,7 +224,7 @@ track S4-16h_5cov_plus
 longLabel CAGE-seq late 16h S4 plus, 5' ends
 shortLabel CAGE late S4 plus
 group CAGE-seq
-parent late
+parent CAGE_late
 visibility pack
 type bigWig
 color 22,96,167
@@ -116,7 +234,7 @@ track S4-16h_5cov_minus
 longLabel CAGE-seq late 16h S4 minus, 5' ends
 shortLabel CAGE late S4 minus
 group CAGE-seq
-parent late
+parent CAGE_late
 visibility pack
 type bigWig
 color 255,106,0
