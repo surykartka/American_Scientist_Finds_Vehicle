@@ -4,3 +4,4 @@ longLabel ASFV transcriptome
 genomesFile genomes.txt
 email surykartka@gmail.com
 descriptionUrl demo.html
+htmlPath ASFV/description.html
