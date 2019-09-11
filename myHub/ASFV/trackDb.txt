@@ -8,44 +8,6 @@ itemRgb On
 type bigBed 9 +
 bigDataUrl bbi/genes.bb
 
-
-track RNA_early_bamCoverage
-group RNA-seq
-container multiWig
-shortLabel early
-longLabel early 5h
-type bigWig
-#viewLimits 0:160
-visibility full
-aggregate stacked
-graphTypeDefault bar
-showSubtrackColorOnUi on
-windowingFunction maximum
-priority 80
-configurable on
-autoScale on
-
-track S3-5h_cov_plus_bc
-longLabel RNA-seq early 5h S3 plus
-shortLabel RNA early S3 plus
-group RNA-seq
-parent RNA_early_bamCoverage
-visibility pack
-type bigWig
-color 70,162,225
-bigDataUrl bbi/Bowtie2_S3-5h_plus_rpkm.bw
-
-track S3-5h_cov_minus_bc
-longLabel RNA-seq early 5h S3 minus
-shortLabel RNA early S3 minus
-group RNA-seq
-parent RNA_early_bamCoverage
-visibility pack
-type bigWig
-color 203,75,21
-bigDataUrl bbi/Bowtie2_S3-5h_minus_rpkm.bw
-
-
 track RNA_early
 group RNA-seq
 container multiWig
@@ -70,7 +32,7 @@ parent RNA_early
 visibility pack
 type bigWig
 color 70,162,225
-bigDataUrl bbi/S3-5h_cov+.bw
+bigDataUrl bbi/Bowtie2_S3-5h_plus_rpkm.bw
 
 track S3-5h_cov_minus
 longLabel RNA-seq early 5h S3 minus
@@ -80,7 +42,7 @@ parent RNA_early
 visibility pack
 type bigWig
 color 203,75,21
-bigDataUrl bbi/S3-5h_cov-.bw
+bigDataUrl bbi/Bowtie2_S3-5h_minus_rpkm.bw
 
 track S4-5h_cov_plus
 longLabel RNA-seq early 5h S4 plus
@@ -90,7 +52,7 @@ parent RNA_early
 visibility pack
 type bigWig
 color 22,96,167
-bigDataUrl bbi/S4-5h_cov+.bw
+bigDataUrl bbi/Bowtie2_S4-5h_plus_rpkm.bw
 
 track S4-5h_cov_minus
 longLabel RNA-seq early 5h S4 minus
@@ -100,7 +62,7 @@ parent RNA_early
 visibility pack
 type bigWig
 color 255,106,0
-bigDataUrl bbi/S4-5h_cov-.bw
+bigDataUrl bbi/Bowtie2_S4-5h_minus_rpkm.bw
 
 
 track RNA_late
@@ -127,7 +89,7 @@ parent RNA_late
 visibility pack
 type bigWig
 color 70,162,225
-bigDataUrl bbi/S5-16h_cov+.bw
+bigDataUrl bbi/Bowtie2_S5-16h_plus_rpkm.bw
 
 track S5-16h_cov_minus
 longLabel RNA-seq late 16h S5 minus
@@ -137,7 +99,7 @@ parent RNA_late
 visibility pack
 type bigWig
 color 203,75,21
-bigDataUrl bbi/S5-16h_cov-.bw
+bigDataUrl bbi/Bowtie2_S5-16h_minus_rpkm.bw
 
 track S6-16h_cov_plus
 longLabel RNA-seq late 16h S6 plus
@@ -147,7 +109,7 @@ parent RNA_late
 visibility pack
 type bigWig
 color 22,96,167
-bigDataUrl bbi/S6-16h_cov+.bw
+bigDataUrl bbi/Bowtie2_S6-16h_plus_rpkm.bw
 
 track S6-16h_cov_minus
 longLabel RNA-seq late 16h S6 minus
@@ -157,7 +119,7 @@ parent RNA_late
 visibility pack
 type bigWig
 color 255,106,0
-bigDataUrl bbi/S6-16h_cov-.bw
+bigDataUrl bbi/Bowtie2_S6-16h_minus_rpkm.bw
 
 
 
