@@ -1,6 +1,7 @@
 genome ASFV
 trackDb ASFV/trackDb.txt
 groups groups.txt
+description BA71V
 twoBitPath ASFV/ASFV.2bit
 organism African swine fever virus
 defaultPos ASFV:1-1000
