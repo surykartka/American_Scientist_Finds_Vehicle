@@ -1,0 +1,6 @@
+hub rnaplab
+shortLabel RNAP-lab
+longLabel ASFV transcriptome
+genomesFile genomes.txt
+email surykartka@gmail.com
+descriptionUrl demo.html
