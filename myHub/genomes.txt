@@ -4,7 +4,7 @@ groups groups.txt
 description BA71V
 twoBitPath ASFV/ASFV.2bit
 organism African swine fever virus
-defaultPos ASFV:1-1000
+defaultPos U18466.2:1-1000
 orderKey 4700
 scientificName African swine fever virus
 htmlPath ASFV/description.html
