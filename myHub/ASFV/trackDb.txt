@@ -18,7 +18,7 @@ type bigWig
 #viewLimits 0:160
 visibility full
 aggregate transparentOverlay
-graphTypeDefault points
+graphTypeDefault bar
 showSubtrackColorOnUi on
 windowingFunction maximum
 priority 80
@@ -75,7 +75,7 @@ type bigWig
 #viewLimits 0:160
 visibility full
 aggregate transparentOverlay
-graphTypeDefault points
+graphTypeDefault bar
 showSubtrackColorOnUi on
 windowingFunction maximum
 priority 80
