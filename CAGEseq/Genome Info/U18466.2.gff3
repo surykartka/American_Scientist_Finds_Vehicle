@@ -1,0 +1,312 @@
+##sequence-region U18466.2 1 170101
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10497
+U18466.2	Genbank	region	1	170101	.	+	.	ID=U18466.2:1..170101;Dbxref=taxon:10497;gbkey=Src;lab-host=VERO cells (kidney epithelial cells%2C African green monkey (Chlorocebus sp));mol_type=genomic DNA;strain=BA71V
+U18466.2	Genbank	stem_loop	1	37	.	+	.	ID=id-U18466.2:1..37;Note=single-stranded hairpin loop;gbkey=stem_loop
+U18466.2	Genbank	repeat_region	38	2171	.	+	.	ID=id-U18466.2:38..2171;Note=terminal inverted repeat;gbkey=repeat_region
+U18466.2	Genbank	gene	1744	2004	.	+	.	ID=gene-KP86R;Name=KP86R;gbkey=Gene;gene=KP86R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	1744	2004	.	+	0	ID=cds-AAA65236.1;Parent=gene-KP86R;Dbxref=NCBI_GP:AAA65236.1;Name=AAA65236.1;Note=putative transmembrane protein%3B contains central transmembrane region%3B contains tandem repeats%3B cysteine-rich%3B identical to DP86L;gbkey=CDS;gene=KP86R;product=pKP86R;protein_id=AAA65236.1
+U18466.2	Genbank	gene	1871	2152	.	-	.	ID=gene-KP93L;Name=KP93L;gbkey=Gene;gene=KP93L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	1871	2152	.	-	0	ID=cds-AAA65237.1;Parent=gene-KP93L;Dbxref=NCBI_GP:AAA65237.1;Name=AAA65237.1;Note=putative transmembrane protein%3B contains central transmembrane region%3B contains tandem repeats%3B proline-rich%3B identical to DP93R;gbkey=CDS;gene=KP93L;product=pKP93L;protein_id=AAA65237.1
+U18466.2	Genbank	gene	2204	3286	.	-	.	ID=gene-KP360L;Name=KP360L;gbkey=Gene;gene=KP360L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	2204	3286	.	-	0	ID=cds-AAA65238.2;Parent=gene-KP360L;Dbxref=NCBI_GP:AAA65238.2;Name=AAA65238.2;Note=member of multigene family 360%3B contains helix-turn-helix motif%3B gene expression: early;gbkey=CDS;gene=KP360L;product=pKP360L;protein_id=AAA65238.2
+U18466.2	Genbank	gene	3370	4458	.	-	.	ID=gene-KP362L;Name=KP362L;gbkey=Gene;gene=KP362L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	3370	4458	.	-	0	ID=cds-AAA65239.1;Parent=gene-KP362L;Dbxref=NCBI_GP:AAA65239.1;Name=AAA65239.1;Note=member of multigene family 360%3B gene expression: early;gbkey=CDS;gene=KP362L;product=pKP362L;protein_id=AAA65239.1
+U18466.2	Genbank	gene	4608	5141	.	+	.	ID=gene-KP177R;Name=KP177R;gbkey=Gene;gene=KP177R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	4608	5141	.	+	0	ID=cds-AAA65240.1;Parent=gene-KP177R;Dbxref=NCBI_GP:AAA65240.1;Name=AAA65240.1;Note=membrane protein%3B contains N-terminal transmembrane region%3B protein synthesis: early%3B member of the multigene family p22;gbkey=CDS;gene=KP177R;product=structural protein p22;protein_id=AAA65240.1
+U18466.2	Genbank	gene	5279	5530	.	-	.	ID=gene-L83L;Name=L83L;gbkey=Gene;gene=L83L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	5279	5530	.	-	0	ID=cds-AAA65241.1;Parent=gene-L83L;Dbxref=NCBI_GP:AAA65241.1;Name=AAA65241.1;Note=putative product contains farnesylation signal;gbkey=CDS;gene=L83L;product=pL83L;protein_id=AAA65241.1
+U18466.2	Genbank	gene	5625	5798	.	-	.	ID=gene-L57L;Name=L57L;gbkey=Gene;gene=L57L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	5625	5798	.	-	0	ID=cds-AIU95047.1;Parent=gene-L57L;Dbxref=NCBI_GP:AIU95047.1;Name=AIU95047.1;gbkey=CDS;gene=L57L;product=pL57L;protein_id=AIU95047.1
+U18466.2	Genbank	gene	5983	7053	.	-	.	ID=gene-L356L;Name=L356L;gbkey=Gene;gene=L356L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	5983	7053	.	-	0	ID=cds-AAA65242.1;Parent=gene-L356L;Dbxref=NCBI_GP:AAA65242.1;Name=AAA65242.1;Note=member of multigene family 360;gbkey=CDS;gene=L356L;product=pL356L;protein_id=AAA65242.1
+U18466.2	Genbank	gene	7280	8092	.	-	.	ID=gene-L270L;Name=L270L;gbkey=Gene;gene=L270L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	7280	8092	.	-	0	ID=cds-AAA65243.1;Parent=gene-L270L;Dbxref=NCBI_GP:AAA65243.1;Name=AAA65243.1;Note=member of multigene family 110%3B putative transmembrane protein%3B contains two family 110 domains%3B contains two central transmembrane regions%3B gene expression: immediate-early;gbkey=CDS;gene=L270L;product=pL270L;protein_id=AAA65243.1
+U18466.2	Genbank	gene	8220	8534	.	-	.	ID=gene-U104L;Name=U104L;gbkey=Gene;gene=U104L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	8220	8534	.	-	0	ID=cds-AAA65244.1;Parent=gene-U104L;Dbxref=NCBI_GP:AAA65244.1;Name=AAA65244.1;Note=member of multigene family 110%3B gene expression: early;gbkey=CDS;gene=U104L;product=pU104L precursor;protein_id=AAA65244.1
+U18466.2	Genbank	gene	8631	9005	.	-	.	ID=gene-XP124L;Name=XP124L;gbkey=Gene;gene=XP124L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	8631	9005	.	-	0	ID=cds-AAA65245.1;Parent=gene-XP124L;Dbxref=NCBI_GP:AAA65245.1;Name=AAA65245.1;Note=member of multigene family 110%3B gene expression: early;gbkey=CDS;gene=XP124L;product=pXP124L precursor;protein_id=AAA65245.1
+U18466.2	Genbank	gene	9183	9431	.	-	.	ID=gene-V82L;Name=V82L;gbkey=Gene;gene=V82L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	9183	9431	.	-	0	ID=cds-AAA65246.1;Parent=gene-V82L;Dbxref=NCBI_GP:AAA65246.1;Name=AAA65246.1;Note=member of multigene family 110%3B gene expression: early;gbkey=CDS;gene=V82L;product=pV82L precursor;protein_id=AAA65246.1
+U18466.2	Genbank	gene	9655	10011	.	-	.	ID=gene-Y118L;Name=Y118L;gbkey=Gene;gene=Y118L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	9655	10011	.	-	0	ID=cds-AAA65247.1;Parent=gene-Y118L;Dbxref=NCBI_GP:AAA65247.1;Name=AAA65247.1;Note=member of multigene family 110%3B gene expression: early%3B contains endoplasmic reticulum retention signal KDEL;gbkey=CDS;gene=Y118L;product=pY118L precursor;protein_id=AAA65247.1
+U18466.2	Genbank	gene	10234	10416	.	-	.	ID=gene-UP60L;Name=UP60L;gbkey=Gene;gene=UP60L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	10234	10416	.	-	0	ID=cds-AAA65248.1;Parent=gene-UP60L;Dbxref=NCBI_GP:AAA65248.1;Name=AAA65248.1;Note=member of multigene family 360;gbkey=CDS;gene=UP60L;product=pUP60L;protein_id=AAA65248.1
+U18466.2	Genbank	gene	11326	11535	.	+	.	ID=gene-X69R;Name=X69R;gbkey=Gene;gene=X69R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	11326	11535	.	+	0	ID=cds-AAA65249.1;Parent=gene-X69R;Dbxref=NCBI_GP:AAA65249.1;Name=AAA65249.1;Note=putative transmembrane protein%3B contains N-terminal hydrophobic segment%3B contains central transmembrane region;gbkey=CDS;gene=X69R;product=pX69R;protein_id=AAA65249.1
+U18466.2	Genbank	gene	11723	12529	.	-	.	ID=gene-J268L;Name=J268L;gbkey=Gene;gene=J268L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	11723	12529	.	-	0	ID=cds-AAA65250.2;Parent=gene-J268L;Dbxref=NCBI_GP:AAA65250.2;Name=AAA65250.2;Note=member of multigene family 300%3B gene expression: early;gbkey=CDS;gene=J268L;product=pJ268L;protein_id=AAA65250.2
+U18466.2	Genbank	gene	13485	13679	.	+	.	ID=gene-J64R;Name=J64R;gbkey=Gene;gene=J64R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	13485	13679	.	+	0	ID=cds-AIU95045.1;Parent=gene-J64R;Dbxref=NCBI_GP:AIU95045.1;Name=AIU95045.1;gbkey=CDS;gene=J64R;product=pJ64R;protein_id=AIU95045.1
+U18466.2	Genbank	gene	14260	14724	.	+	.	ID=gene-J154R;Name=J154R;gbkey=Gene;gene=J154R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	14260	14724	.	+	0	ID=cds-AAA65251.1;Parent=gene-J154R;Dbxref=NCBI_GP:AAA65251.1;Name=AAA65251.1;Note=member of multigene family 300%3B gene expression: early;gbkey=CDS;gene=J154R;product=pJ154R;protein_id=AAA65251.1
+U18466.2	Genbank	gene	14833	15819	.	-	.	ID=gene-J328L;Name=J328L;gbkey=Gene;gene=J328L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	14833	15819	.	-	0	ID=cds-AIU95046.1;Parent=gene-J328L;Dbxref=NCBI_GP:AIU95046.1;Name=AIU95046.1;Note=member of multigene family 300%3B gene expression: early;gbkey=CDS;gene=J328L;product=pJ328L;protein_id=AIU95046.1
+U18466.2	Genbank	gene	15937	16896	.	-	.	ID=gene-J319L;Name=J319L;gbkey=Gene;gene=J319L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	15937	16896	.	-	0	ID=cds-AAA65254.1;Parent=gene-J319L;Dbxref=NCBI_GP:AAA65254.1;Name=AAA65254.1;Note=member of multigene family 360%3B gene expression: early;gbkey=CDS;gene=J319L;product=pJ319L;protein_id=AAA65254.1
+U18466.2	Genbank	gene	17058	17435	.	-	.	ID=gene-A125L;Name=A125L;gbkey=Gene;gene=A125L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	17058	17435	.	-	0	ID=cds-AAA65255.1;Parent=gene-A125L;Dbxref=NCBI_GP:AAA65255.1;Name=AAA65255.1;Note=member of multigene family 360;gbkey=CDS;gene=A125L;product=pA125L;protein_id=AAA65255.1
+U18466.2	Genbank	gene	17726	19195	.	+	.	ID=gene-A489R;Name=A489R;gbkey=Gene;gene=A489R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	17726	19195	.	+	0	ID=cds-AAA65256.1;Parent=gene-A489R;Dbxref=NCBI_GP:AAA65256.1;Name=AAA65256.1;Note=member of multigene family 505%3B gene expression: late;gbkey=CDS;gene=A489R;product=pA489R;protein_id=AAA65256.1
+U18466.2	Genbank	gene	19392	20234	.	+	.	ID=gene-A280R;Name=A280R;gbkey=Gene;gene=A280R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	19392	20234	.	+	0	ID=cds-AAA65257.1;Parent=gene-A280R;Dbxref=NCBI_GP:AAA65257.1;Name=AAA65257.1;Note=member of multigene family 505%3B contains internal 6-aa repeat%3B gene expression: early;gbkey=CDS;gene=A280R;product=pA280R;protein_id=AAA65257.1
+U18466.2	Genbank	gene	20399	21916	.	+	.	ID=gene-A505R;Name=A505R;gbkey=Gene;gene=A505R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	20399	21916	.	+	0	ID=cds-AAA65258.1;Parent=gene-A505R;Dbxref=NCBI_GP:AAA65258.1;Name=AAA65258.1;Note=member of multigene family 505%3B gene expression: early;gbkey=CDS;gene=A505R;product=pA505R;protein_id=AAA65258.1
+U18466.2	Genbank	gene	21945	23441	.	+	.	ID=gene-A498R;Name=A498R;gbkey=Gene;gene=A498R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	21945	23441	.	+	0	ID=cds-AAA65259.1;Parent=gene-A498R;Dbxref=NCBI_GP:AAA65259.1;Name=AAA65259.1;Note=member of multigene family 505%3B gene expression: early;gbkey=CDS;gene=A498R;product=pA498R;protein_id=AAA65259.1
+U18466.2	Genbank	gene	23639	25225	.	+	.	ID=gene-A528R;Name=A528R;gbkey=Gene;gene=A528R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	23639	25225	.	+	0	ID=cds-AAA65260.1;Parent=gene-A528R;Dbxref=NCBI_GP:AAA65260.1;Name=AAA65260.1;Note=member of multigene family 505%3B contains helix-turn-helix motif%3B gene expression: early;gbkey=CDS;gene=A528R;product=pA528R;protein_id=AAA65260.1
+U18466.2	Genbank	gene	25533	27053	.	+	.	ID=gene-A506R;Name=A506R;gbkey=Gene;gene=A506R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	25533	27053	.	+	0	ID=cds-AAA65261.1;Parent=gene-A506R;Dbxref=NCBI_GP:AAA65261.1;Name=AAA65261.1;Note=member of multigene family 505%3B gene expression: early;gbkey=CDS;gene=A506R;product=pA506R;protein_id=AAA65261.1
+U18466.2	Genbank	gene	27377	29005	.	+	.	ID=gene-A542R;Name=A542R;gbkey=Gene;gene=A542R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	27377	29005	.	+	0	ID=cds-AAA65262.1;Parent=gene-A542R;Dbxref=NCBI_GP:AAA65262.1;Name=AAA65262.1;Note=member of multigene family 505%3B gene expression: early;gbkey=CDS;gene=A542R;product=pA542R;protein_id=AAA65262.1
+U18466.2	Genbank	gene	29121	29795	.	-	.	ID=gene-A224L;Name=A224L;gbkey=Gene;gene=A224L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	29121	29795	.	-	0	ID=cds-AAA65263.1;Parent=gene-A224L;Dbxref=NCBI_GP:AAA65263.1;Name=AAA65263.1;Note=putative product contains BIR motif of baculovirus IAP proteins%3B cysteine-rich;gbkey=CDS;gene=A224L;product=IAP homolog;protein_id=AAA65263.1
+U18466.2	Genbank	gene	30167	30481	.	+	.	ID=gene-A104R;Name=A104R;gbkey=Gene;gene=A104R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	30167	30481	.	+	0	ID=cds-AAA65264.1;Parent=gene-A104R;Dbxref=NCBI_GP:AAA65264.1;Name=AAA65264.1;Note=structural protein;gbkey=CDS;gene=A104R;product=histone-like protein;protein_id=AAA65264.1
+U18466.2	Genbank	gene	30478	31200	.	-	.	ID=gene-A240L;Name=A240L;gbkey=Gene;gene=A240L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	30478	31200	.	-	0	ID=cds-AAA65265.1;Parent=gene-A240L;Dbxref=NCBI_GP:AAA65265.1;Name=AAA65265.1;Note=gene expression: early;gbkey=CDS;gene=A240L;product=thymidylate kinase;protein_id=AAA65265.1
+U18466.2	Genbank	gene	31112	31468	.	+	.	ID=gene-A118R;Name=A118R;gbkey=Gene;gene=A118R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	31112	31468	.	+	0	ID=cds-AAA65266.1;Parent=gene-A118R;Dbxref=NCBI_GP:AAA65266.1;Name=AAA65266.1;Note=putative;gbkey=CDS;gene=A118R;product=pA118R precursor;protein_id=AAA65266.1
+U18466.2	Genbank	gene	31498	31953	.	+	.	ID=gene-A151R;Name=A151R;gbkey=Gene;gene=A151R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	31498	31953	.	+	0	ID=cds-AAA65267.1;Parent=gene-A151R;Dbxref=NCBI_GP:AAA65267.1;Name=AAA65267.1;Note=contains CXXC motif%3B interacts with pB119L and pE248R%3B gene expression early 'component of the viral system for disulfide bond formation;gbkey=CDS;gene=A151R;product=pA151R;protein_id=AAA65267.1
+U18466.2	Genbank	gene	32298	33128	.	+	.	ID=gene-A276R;Name=A276R;gbkey=Gene;gene=A276R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	32298	33128	.	+	0	ID=cds-AAA65268.1;Parent=gene-A276R;Dbxref=NCBI_GP:AAA65268.1;Name=AAA65268.1;Note=member of multigene family 360;gbkey=CDS;gene=A276R;product=pA276R;protein_id=AAA65268.1
+U18466.2	Genbank	gene	33334	34050	.	-	.	ID=gene-A238L;Name=A238L;gbkey=Gene;gene=A238L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	33334	34050	.	-	0	ID=cds-AAA65269.1;Parent=gene-A238L;Dbxref=NCBI_GP:AAA65269.1;Name=AAA65269.1;Note=putative product contains IkB-like ankyrin repeats%3B non-essential;gbkey=CDS;gene=A238L;product=IkB-like protein;protein_id=AAA65269.1
+U18466.2	Genbank	gene	34090	36669	.	-	.	ID=gene-A859L;Name=A859L;gbkey=Gene;gene=A859L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	34090	36669	.	-	0	ID=cds-AAA65270.1;Parent=gene-A859L;Dbxref=NCBI_GP:AAA65270.1;Name=AAA65270.1;Note=member of helicase superfamily II group including hsdR subunits of type Ib restriction enzymes%3B contains two overlapping leucine zippers;gbkey=CDS;gene=A859L;product=helicase;protein_id=AAA65270.1
+U18466.2	Genbank	gene	36671	37210	.	-	.	ID=gene-A179L;Name=A179L;gbkey=Gene;gene=A179L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	36671	37210	.	-	0	ID=cds-AAA65271.1;Parent=gene-A179L;Dbxref=NCBI_GP:AAA65271.1;Name=AAA65271.1;Note=protein synthesis: early and late;gbkey=CDS;gene=A179L;product=bcl-2/bax homolog;protein_id=AAA65271.1
+U18466.2	Genbank	gene	37454	37867	.	+	.	ID=gene-A137R;Name=A137R;gbkey=Gene;gene=A137R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	37454	37867	.	+	0	ID=cds-AAA65272.1;Parent=gene-A137R;Dbxref=NCBI_GP:AAA65272.1;Name=AAA65272.1;Note=gene expression: late;gbkey=CDS;gene=A137R;product=structural protein p11.5;protein_id=AAA65272.1
+U18466.2	Genbank	gene	37900	38853	.	-	.	ID=gene-F317L;Name=F317L;gbkey=Gene;gene=F317L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	37900	38853	.	-	0	ID=cds-AAA65273.1;Parent=gene-F317L;Dbxref=NCBI_GP:AAA65273.1;Name=AAA65273.1;Note=putative;gbkey=CDS;gene=F317L;product=pF317L;protein_id=AAA65273.1
+U18466.2	Genbank	gene	38878	39882	.	-	.	ID=gene-F334L;Name=F334L;gbkey=Gene;gene=F334L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	38878	39882	.	-	0	ID=cds-AAA65274.1;Parent=gene-F334L;Dbxref=NCBI_GP:AAA65274.1;Name=AAA65274.1;gbkey=CDS;gene=F334L;product=ribonucleotide reductase small subunit;protein_id=AAA65274.1
+U18466.2	Genbank	gene	39903	42239	.	+	.	ID=gene-F778R;Name=F778R;gbkey=Gene;gene=F778R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	39903	42239	.	+	0	ID=cds-AAA65275.1;Parent=gene-F778R;Dbxref=NCBI_GP:AAA65275.1;Name=AAA65275.1;Note=glycine-rich;gbkey=CDS;gene=F778R;product=ribonucleotide reductase large subunit;protein_id=AAA65275.1
+U18466.2	Genbank	gene	42272	42769	.	+	.	ID=gene-F165R;Name=F165R;gbkey=Gene;gene=F165R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	42272	42769	.	+	0	ID=cds-AAA65276.1;Parent=gene-F165R;Dbxref=NCBI_GP:AAA65276.1;Name=AAA65276.1;Note=putative product contains phenylalanine-rich region;gbkey=CDS;gene=F165R;product=pF165R;protein_id=AAA65276.1
+U18466.2	Genbank	gene	42756	45923	.	-	.	ID=gene-F1055L;Name=F1055L;gbkey=Gene;gene=F1055L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	42756	45923	.	-	0	ID=cds-AAA65277.1;Parent=gene-F1055L;Dbxref=NCBI_GP:AAA65277.1;Name=AAA65277.1;Note=member of helicase superfamily II%3B similar to herpesvirus origin-binding protein encoded by GenBank Accession Number M68963%3B contains cell attachment sequence RGD%3B aspartic acid-rich;gbkey=CDS;gene=F1055L;product=helicase;protein_id=AAA65277.1
+U18466.2	Genbank	gene	46092	46709	.	+	.	ID=gene-K205R;Name=K205R;gbkey=Gene;gene=K205R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	46092	46709	.	+	0	ID=cds-AAA65278.1;Parent=gene-K205R;Dbxref=NCBI_GP:AAA65278.1;Name=AAA65278.1;Note=gene expression: early;gbkey=CDS;gene=K205R;product=pK205R;protein_id=AAA65278.1
+U18466.2	Genbank	gene	46798	47034	.	+	.	ID=gene-K78R;Name=K78R;gbkey=Gene;gene=K78R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	46798	47034	.	+	0	ID=cds-AAA65279.1;Parent=gene-K78R;Dbxref=NCBI_GP:AAA65279.1;Name=AAA65279.1;Note=DNA-binding protein%3B serine phosphorylated%3B serine- and glycine-rich;gbkey=CDS;gene=K78R;product=structural protein p10;protein_id=AAA65279.1
+U18466.2	Genbank	gene	47031	47621	.	+	.	ID=gene-K196R;Name=K196R;gbkey=Gene;gene=K196R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	47031	47621	.	+	0	ID=cds-AAA65280.1;Parent=gene-K196R;Dbxref=NCBI_GP:AAA65280.1;Name=AAA65280.1;Note=non-essential;gbkey=CDS;gene=K196R;product=thymidine kinase;protein_id=AAA65280.1
+U18466.2	Genbank	gene	47637	48074	.	+	.	ID=gene-K145R;Name=K145R;gbkey=Gene;gene=K145R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	47637	48074	.	+	0	ID=cds-AAA65281.1;Parent=gene-K145R;Dbxref=NCBI_GP:AAA65281.1;Name=AAA65281.1;Note=gene expression: late;gbkey=CDS;gene=K145R;product=pK145R;protein_id=AAA65281.1
+U18466.2	Genbank	gene	48107	49372	.	+	.	ID=gene-K421R;Name=K421R;gbkey=Gene;gene=K421R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	48107	49372	.	+	0	ID=cds-AAA65282.1;Parent=gene-K421R;Dbxref=NCBI_GP:AAA65282.1;Name=AAA65282.1;Note=gene expression: late;gbkey=CDS;gene=K421R;product=pK421R;protein_id=AAA65282.1
+U18466.2	Genbank	gene	49391	53119	.	-	.	ID=gene-EP1242L;Name=EP1242L;gbkey=Gene;gene=EP1242L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	49391	53119	.	-	0	ID=cds-AAA65283.1;Parent=gene-EP1242L;Dbxref=NCBI_GP:AAA65283.1;Name=AAA65283.1;Note=gene expression: late;gbkey=CDS;gene=EP1242L;product=RNA polymerase subunit 2;protein_id=AAA65283.1
+U18466.2	Genbank	gene	53198	53452	.	+	.	ID=gene-EP84R;Name=EP84R;gbkey=Gene;gene=EP84R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	53198	53452	.	+	0	ID=cds-AAA65284.1;Parent=gene-EP84R;Dbxref=NCBI_GP:AAA65284.1;Name=AAA65284.1;Note=putative transmembrane protein%3B contains two transmembrane regions%3B gene expression: late;gbkey=CDS;gene=EP84R;product=pEP84R;protein_id=AAA65284.1
+U18466.2	Genbank	gene	53488	54762	.	+	.	ID=gene-EP424R;Name=EP424R;gbkey=Gene;gene=EP424R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	53488	54762	.	+	0	ID=cds-AAA65285.1;Parent=gene-EP424R;Dbxref=NCBI_GP:AAA65285.1;Name=AAA65285.1;Note=contains FTS J-like methyl transferase domain%3B putative  methyltransferase;gbkey=CDS;gene=EP424R;product=pEP424R;protein_id=AAA65285.1
+U18466.2	Genbank	gene	55245	55703	.	+	.	ID=gene-EP152R;Name=EP152R;gbkey=Gene;gene=EP152R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	55245	55703	.	+	0	ID=cds-AAA65286.1;Parent=gene-EP152R;Dbxref=NCBI_GP:AAA65286.1;Name=AAA65286.1;Note=putative transmembrane protein%3B contains N-terminal transmembrane region;gbkey=CDS;gene=EP152R;product=pEP152R;protein_id=AAA65286.1
+U18466.2	Genbank	gene	55706	56167	.	+	.	ID=gene-EP153R;Name=EP153R;gbkey=Gene;gene=EP153R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	55706	56167	.	+	0	ID=cds-AAA65287.1;Parent=gene-EP153R;Dbxref=NCBI_GP:AAA65287.1;Name=AAA65287.1;Note=putative transmembrane protein%3B contains C-type animal lectin-like region%3B contains cell attachment sequence RGD%3B contains central transmembrane region%3B asparagine-rich;gbkey=CDS;gene=EP153R;product=lectin-like protein;protein_id=AAA65287.1
+U18466.2	Genbank	gene	56243	57451	.	+	.	ID=gene-EP402R;Name=EP402R;gbkey=Gene;gene=EP402R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	56243	57451	.	+	0	ID=cds-AAA65288.1;Parent=gene-EP402R;Dbxref=NCBI_GP:AAA65288.1;Name=AAA65288.1;Note=membrane protein%3B responsible for hemadsorption of ASFV-infected cells%3B nonessential%3B contains N-terminal hydrophobic segment and central transmembrane region%3B contains tandem repeats%3B proline-rich%3B gene expression: late;gbkey=CDS;gene=EP402R;product=CD2 homolog;protein_id=AAA65288.1
+U18466.2	Genbank	gene	57560	58654	.	+	.	ID=gene-EP364R;Name=EP364R;gbkey=Gene;gene=EP364R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	57560	58654	.	+	0	ID=cds-AAA65289.1;Parent=gene-EP364R;Dbxref=NCBI_GP:AAA65289.1;Name=AAA65289.1;Note=similar to ERCC4-type DNA repair nuclease;gbkey=CDS;gene=EP364R;product=pEP364R;protein_id=AAA65289.1
+U18466.2	Genbank	gene	58718	62467	.	-	.	ID=gene-M1249L;Name=M1249L;gbkey=Gene;gene=M1249L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	58718	62467	.	-	0	ID=cds-AAA65290.1;Parent=gene-M1249L;Dbxref=NCBI_GP:AAA65290.1;Name=AAA65290.1;Note=putative;gbkey=CDS;gene=M1249L;product=pM1249L;protein_id=AAA65290.1
+U18466.2	Genbank	gene	62507	63853	.	+	.	ID=gene-M448R;Name=M448R;gbkey=Gene;gene=M448R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	62507	63853	.	+	0	ID=cds-AAA65291.1;Parent=gene-M448R;Dbxref=NCBI_GP:AAA65291.1;Name=AAA65291.1;Note=putative product contains microbody targeting signal%3B similar to the T4 RNA ligase 1 (Rnl1) family of RNA ligases;gbkey=CDS;gene=M448R;product=pM448R;protein_id=AAA65291.1
+U18466.2	Genbank	gene	63940	64329	.	+	.	ID=gene-C129R;Name=C129R;gbkey=Gene;gene=C129R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	63940	64329	.	+	0	ID=cds-AAA65292.1;Parent=gene-C129R;Dbxref=NCBI_GP:AAA65292.1;Name=AAA65292.1;Note=gene expression: late;gbkey=CDS;gene=C129R;product=pC129R;protein_id=AAA65292.1
+U18466.2	Genbank	gene	64376	64630	.	-	.	ID=gene-C84L;Name=C84L;gbkey=Gene;gene=C84L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	64376	64630	.	-	0	ID=cds-AAA65293.1;Parent=gene-C84L;Dbxref=NCBI_GP:AAA65293.1;Name=AAA65293.1;Note=putative;gbkey=CDS;gene=C84L;product=pC84L;protein_id=AAA65293.1
+U18466.2	Genbank	gene	65054	67207	.	+	.	ID=gene-C717R;Name=C717R;gbkey=Gene;gene=C717R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	65054	67207	.	+	0	ID=cds-AAA65294.1;Parent=gene-C717R;Dbxref=NCBI_GP:AAA65294.1;Name=AAA65294.1;Note=putative;gbkey=CDS;gene=C717R;product=pC717R;protein_id=AAA65294.1
+U18466.2	Genbank	gene	67194	67511	.	+	.	ID=gene-C105R;Name=C105R;gbkey=Gene;gene=C105R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	67194	67511	.	+	0	ID=cds-AAA65295.2;Parent=gene-C105R;Dbxref=NCBI_GP:AAA65295.2;Name=AAA65295.2;Note=putative;gbkey=CDS;gene=C105R;product=pC105R;protein_id=AAA65295.2
+U18466.2	Genbank	gene	67910	68683	.	-	.	ID=gene-C257L;Name=C257L;gbkey=Gene;gene=C257L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	67910	68683	.	-	0	ID=cds-AAA65296.1;Parent=gene-C257L;Dbxref=NCBI_GP:AAA65296.1;Name=AAA65296.1;Note=putative transmembrane protein%3B contains central transmembrane region;gbkey=CDS;gene=C257L;product=pC257L;protein_id=AAA65296.1
+U18466.2	Genbank	gene	68662	70089	.	-	.	ID=gene-C475L;Name=C475L;gbkey=Gene;gene=C475L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	68662	70089	.	-	0	ID=cds-AAA65297.1;Parent=gene-C475L;Dbxref=NCBI_GP:AAA65297.1;Name=AAA65297.1;Note=similar to the poly(A) polymerases of members of the family of nucleocytoplasmic large DNA viruses%3B putative  poly(A) polymerase;gbkey=CDS;gene=C475L;product=pC475L;protein_id=AAA65297.1
+U18466.2	Genbank	gene	70142	71089	.	+	.	ID=gene-C315R;Name=C315R;gbkey=Gene;gene=C315R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	70142	71089	.	+	0	ID=cds-AAA65298.1;Parent=gene-C315R;Dbxref=NCBI_GP:AAA65298.1;Name=AAA65298.1;Note=similar to the homologues to the transcription factor TFIIB of mimivirus and large unclassified DNA viruses%3B putative  transcription factor TFIIB-like;gbkey=CDS;gene=C315R;product=pC315R;protein_id=AAA65298.1
+U18466.2	Genbank	gene	71170	71613	.	-	.	ID=gene-C147L;Name=C147L;gbkey=Gene;gene=C147L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	71170	71613	.	-	0	ID=cds-AAA65299.1;Parent=gene-C147L;Dbxref=NCBI_GP:AAA65299.1;Name=AAA65299.1;Note=putative;gbkey=CDS;gene=C147L;product=RNA polymerase subunit 6;protein_id=AAA65299.1
+U18466.2	Genbank	gene	71773	71961	.	-	.	ID=gene-C62L;Name=C62L;gbkey=Gene;gene=C62L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	71773	71961	.	-	0	ID=cds-AAA65300.1;Parent=gene-C62L;Dbxref=NCBI_GP:AAA65300.1;Name=AAA65300.1;Note=putative;gbkey=CDS;gene=C62L;product=pC62L;protein_id=AAA65300.1
+U18466.2	Genbank	gene	72043	74931	.	+	.	ID=gene-C962R;Name=C962R;gbkey=Gene;gene=C962R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	72043	74931	.	+	0	ID=cds-AAA65301.1;Parent=gene-C962R;Dbxref=NCBI_GP:AAA65301.1;Name=AAA65301.1;Note=putative product contains ATP- or GTP-binding motif%3B putative  DNA primase;gbkey=CDS;gene=C962R;product=pC962R;protein_id=AAA65301.1
+U18466.2	Genbank	gene	75069	77957	.	-	.	ID=gene-B962L;Name=B962L;gbkey=Gene;gene=B962L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	75069	77957	.	-	0	ID=cds-AAA65302.1;Parent=gene-B962L;Dbxref=NCBI_GP:AAA65302.1;Name=AAA65302.1;Note=member of helicase superfamily II group including 'DEAH' pre-mRNA processing proteins and vaccinia I8R%3B gene expression: late;gbkey=CDS;gene=B962L;product=helicase;protein_id=AAA65302.1
+U18466.2	Genbank	gene	77917	78276	.	-	.	ID=gene-B119L;Name=B119L;gbkey=Gene;gene=B119L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	77917	78276	.	-	0	ID=cds-AAA65303.1;Parent=gene-B119L;Dbxref=NCBI_GP:AAA65303.1;Name=AAA65303.1;Note=protein expression: late%3B similar to S. cerevisiae ERV1 protein%2C Swiss-Prot Accession Number P27882%2C and Vaccinia virus E10R protein%2C Swiss-Prot Accession Number P21050%3B component of the viral system for disulfide bond formation;gbkey=CDS;gene=B119L;product=pB119L;protein_id=AAA65303.1
+U18466.2	Genbank	gene	78257	79213	.	-	.	ID=gene-B318L;Name=B318L;gbkey=Gene;gene=B318L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	78257	79213	.	-	0	ID=cds-AAA65304.1;Parent=gene-B318L;Dbxref=NCBI_GP:AAA65304.1;Name=AAA65304.1;Note=putative transmembrane protein%3B contains N-terminal transmembrane region;gbkey=CDS;gene=B318L;product=prenyltransferase;protein_id=AAA65304.1
+U18466.2	Genbank	gene	79180	80496	.	-	.	ID=gene-B438L;Name=B438L;gbkey=Gene;gene=B438L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	79180	80496	.	-	0	ID=cds-AAA65305.1;Parent=gene-B438L;Dbxref=NCBI_GP:AAA65305.1;Name=AAA65305.1;Note=product contains cell attachment sequence RGD%3B contains helix-turn-helix motif%3B structural protein p49%2C required for formation of the vertices in icosahedral capsid;gbkey=CDS;gene=B438L;product=pB438L;protein_id=AAA65305.1
+U18466.2	Genbank	gene	80509	81018	.	-	.	ID=gene-B169L;Name=B169L;gbkey=Gene;gene=B169L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	80509	81018	.	-	0	ID=cds-AAA65306.1;Parent=gene-B169L;Dbxref=NCBI_GP:AAA65306.1;Name=AAA65306.1;Note=putative transmembrane protein%3B contains two central transmembrane regions%3B contains tandem repeats;gbkey=CDS;gene=B169L;product=pB169L;protein_id=AAA65306.1
+U18466.2	Genbank	gene	81035	82462	.	-	.	ID=gene-B475L;Name=B475L;gbkey=Gene;gene=B475L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	81035	82462	.	-	0	ID=cds-AAA65307.1;Parent=gene-B475L;Dbxref=NCBI_GP:AAA65307.1;Name=AAA65307.1;Note=putative product contains three overlapping leucine zippers%3B contains tandem repeats%3B glutamic acid-rich;gbkey=CDS;gene=B475L;product=pB475L;protein_id=AAA65307.1
+U18466.2	Genbank	gene	82599	83663	.	-	.	ID=gene-B354L;Name=B354L;gbkey=Gene;gene=B354L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	82599	83663	.	-	0	ID=cds-AAA65308.1;Parent=gene-B354L;Dbxref=NCBI_GP:AAA65308.1;Name=AAA65308.1;Note=putative product contains ATP- or GTP-binding motif;gbkey=CDS;gene=B354L;product=pB354L;protein_id=AAA65308.1
+U18466.2	Genbank	gene	83674	85482	.	-	.	ID=gene-B602L;Name=B602L;gbkey=Gene;gene=B602L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	83674	85482	.	-	0	ID=cds-AAA65309.1;Parent=gene-B602L;Dbxref=NCBI_GP:AAA65309.1;Name=AAA65309.1;Note=product contains highly variable tandem repeats%3B cysteine-rich region similar to that of the epidermal growth factor receptor%3B gene expression: late%3B required for the correct folding of the capsid protein p72;gbkey=CDS;gene=B602L;product=pB602L;protein_id=AAA65309.1
+U18466.2	Genbank	gene	85537	86694	.	+	.	ID=gene-B385R;Name=B385R;gbkey=Gene;gene=B385R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	85537	86694	.	+	0	ID=cds-AAA65310.1;Parent=gene-B385R;Dbxref=NCBI_GP:AAA65310.1;Name=AAA65310.1;Note=putative product contains Zn finger C2H2%3B similar to the vaccinia virus late transcription factor A2%3B putative  transcription factor;gbkey=CDS;gene=B385R;product=pB385R;protein_id=AAA65310.1
+U18466.2	Genbank	gene	86793	88733	.	-	.	ID=gene-B646L;Name=B646L;gbkey=Gene;gene=B646L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	86793	88733	.	-	0	ID=cds-AAA65311.1;Parent=gene-B646L;Dbxref=NCBI_GP:AAA65311.1;Name=AAA65311.1;Note=similar to Chlorella virus PBCV-1 major capsid protein%2C PIR Accession Number A40245%3B similar to Tipoula iridescent virus type 1 major capsid protein%2C Swiss-Prot Accession Number P18162%3B contains tandem repeats%3B gene expression: late;gbkey=CDS;gene=B646L;product=structural protein p72;protein_id=AAA65311.1
+U18466.2	Genbank	gene	88773	89150	.	+	.	ID=gene-B125R;Name=B125R;gbkey=Gene;gene=B125R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	88773	89150	.	+	0	ID=cds-AAA65312.1;Parent=gene-B125R;Dbxref=NCBI_GP:AAA65312.1;Name=AAA65312.1;Note=putative;gbkey=CDS;gene=B125R;product=pB125R;protein_id=AAA65312.1
+U18466.2	Genbank	gene	89123	89476	.	-	.	ID=gene-B117L;Name=B117L;gbkey=Gene;gene=B117L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	89123	89476	.	-	0	ID=cds-AAA65313.1;Parent=gene-B117L;Dbxref=NCBI_GP:AAA65313.1;Name=AAA65313.1;Note=putative transmembrane protein%3B contains central transmembrane region%3B histidine- and alanine-rich;gbkey=CDS;gene=B117L;product=pB117L;protein_id=AAA65313.1
+U18466.2	Genbank	gene	89483	90706	.	-	.	ID=gene-B407L;Name=B407L;gbkey=Gene;gene=B407L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	89483	90706	.	-	0	ID=cds-AAA65314.1;Parent=gene-B407L;Dbxref=NCBI_GP:AAA65314.1;Name=AAA65314.1;Note=putative product contains tandem repeats%3B serine- and glycine-rich;gbkey=CDS;gene=B407L;product=pB407L;protein_id=AAA65314.1
+U18466.2	Genbank	gene	90734	91261	.	-	.	ID=gene-B175L;Name=B175L;gbkey=Gene;gene=B175L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	90734	91261	.	-	0	ID=cds-AAA65315.1;Parent=gene-B175L;Dbxref=NCBI_GP:AAA65315.1;Name=AAA65315.1;Note=similar to poxvirus late transcription factor A1%3B putative transcription factor;gbkey=CDS;gene=B175L;product=pB175L;protein_id=AAA65315.1
+U18466.2	Genbank	gene	91308	92099	.	+	.	ID=gene-B263R;Name=B263R;gbkey=Gene;gene=B263R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	91308	92099	.	+	0	ID=cds-AAA65316.1;Parent=gene-B263R;Dbxref=NCBI_GP:AAA65316.1;Name=AAA65316.1;Note=putative;gbkey=CDS;gene=B263R;product=pB263R;protein_id=AAA65316.1
+U18466.2	Genbank	gene	92096	92296	.	-	.	ID=gene-B66L;Name=B66L;gbkey=Gene;gene=B66L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	92096	92296	.	-	0	ID=cds-AAA65317.1;Parent=gene-B66L;Dbxref=NCBI_GP:AAA65317.1;Name=AAA65317.1;Note=putative transmembrane protein%3B contains C-terminal transmembrane region;gbkey=CDS;gene=B66L;product=pB66L precursor;protein_id=AAA65317.1
+U18466.2	Genbank	gene	92302	96324	.	-	.	ID=gene-G1340L;Name=G1340L;gbkey=Gene;gene=G1340L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	92302	96324	.	-	0	ID=cds-AAA65318.1;Parent=gene-G1340L;Dbxref=NCBI_GP:AAA65318.1;Name=AAA65318.1;Note=putative product contains ATP- or GTP-binding motif%3B similar to poxvirus early transcription factor (VETF)%2C large subunit%3B putative  transcription factor;gbkey=CDS;gene=G1340L;product=pG1340L;protein_id=AAA65318.1
+U18466.2	Genbank	gene	96365	100000	.	+	.	ID=gene-G1211R;Name=G1211R;gbkey=Gene;gene=G1211R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	96365	100000	.	+	0	ID=cds-AAA65319.1;Parent=gene-G1211R;Dbxref=NCBI_GP:AAA65319.1;Name=AAA65319.1;Note=aphidicolin-resistant%3B phosphonoacetic acid-sensitive%3B gene starts at 2nd ATG codon of ORF (G1207R)%3B contains tandem repeats%3B gene expression: early and late%3B belongs to group of alpha-like DNA polymerases;gbkey=CDS;gene=G1211R;product=DNA polymerase;protein_id=AAA65319.1
+U18466.2	Genbank	gene	99997	100368	.	-	.	ID=gene-CP123L;Name=CP123L;gbkey=Gene;gene=CP123L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	99997	100368	.	-	0	ID=cds-AAA65320.1;Parent=gene-CP123L;Dbxref=NCBI_GP:AAA65320.1;Name=AAA65320.1;Note=putative transmembrane protein%3B contains N-terminal transmembrane region%3B proline-rich;gbkey=CDS;gene=CP123L;product=pCP123L;protein_id=AAA65320.1
+U18466.2	Genbank	gene	100477	107904	.	-	.	ID=gene-CP2475L;Name=CP2475L;gbkey=Gene;gene=CP2475L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	100477	107904	.	-	0	ID=cds-AAA65321.1;Parent=gene-CP2475L;Dbxref=NCBI_GP:AAA65321.1;Name=AAA65321.1;Note=contains two RGD cell attachment motifs%3B myristoylated%3B precursor of structural proteins p150%2C p37%2C p14 and p34%3B protein synthesis: late;gbkey=CDS;gene=CP2475L;product=220 kDa polyprotein;protein_id=AAA65321.1
+U18466.2	Genbank	gene	107977	108591	.	-	.	ID=gene-CP204L;Name=CP204L;gbkey=Gene;gene=CP204L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	107977	108591	.	-	0	ID=cds-AAA65322.1;Parent=gene-CP204L;Dbxref=NCBI_GP:AAA65322.1;Name=AAA65322.1;Note=serine phosphorylated%3B protein size varies in different isolates%3B associates in hexameric homo-oligomers%3B gene starts at 2nd ATG codon of ORF (CP196L)%3B glutamic acid-rich%3B gene expression: early%3B protein synthesis: early;gbkey=CDS;gene=CP204L;product=ASFV-induced protein p32;protein_id=AAA65322.1
+U18466.2	Genbank	gene	108622	110214	.	+	.	ID=gene-CP530R;Name=CP530R;gbkey=Gene;gene=CP530R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	108622	110214	.	+	0	ID=cds-AAA65323.1;Parent=gene-CP530R;Dbxref=NCBI_GP:AAA65323.1;Name=AAA65323.1;Note=precursor of structural proteins p35 and p15;gbkey=CDS;gene=CP530R;product=60 kDa polyprotein;protein_id=AAA65323.1
+U18466.2	Genbank	gene	110217	110459	.	+	.	ID=gene-CP80R;Name=CP80R;gbkey=Gene;gene=CP80R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	110217	110459	.	+	0	ID=cds-AAA65324.1;Parent=gene-CP80R;Dbxref=NCBI_GP:AAA65324.1;Name=AAA65324.1;Note=similar to the archaeo-eukaryotic RNA polymerase II subunit 10 (RPB10);gbkey=CDS;gene=CP80R;product=RNA polymerase subunit 10;protein_id=AAA65324.1
+U18466.2	Genbank	gene	110486	111424	.	+	.	ID=gene-CP312R;Name=CP312R;gbkey=Gene;gene=CP312R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	110486	111424	.	+	0	ID=cds-AAA65325.1;Parent=gene-CP312R;Dbxref=NCBI_GP:AAA65325.1;Name=AAA65325.1;Note=putative;gbkey=CDS;gene=CP312R;product=pCP312R;protein_id=AAA65325.1
+U18466.2	Genbank	gene	111445	111969	.	-	.	ID=gene-O174L;Name=O174L;gbkey=Gene;gene=O174L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	111445	111969	.	-	0	ID=cds-AAA65326.1;Parent=gene-O174L;Dbxref=NCBI_GP:AAA65326.1;Name=AAA65326.1;Note=product is similar to DNA polymerase beta%2C Swiss-Prot Accession Number P06746 and terminal deoxynucleotidyl transferase%2C encoded by GenBank Accession Number U07803;gbkey=CDS;gene=O174L;product=DNA polymerase beta-like protein;protein_id=AAA65326.1
+U18466.2	Genbank	gene	112019	112204	.	+	.	ID=gene-O61R;Name=O61R;gbkey=Gene;gene=O61R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	112019	112204	.	+	0	ID=cds-AAA65327.1;Parent=gene-O61R;Dbxref=NCBI_GP:AAA65327.1;Name=AAA65327.1;Note=putative transmembrane protein%3B virus attachment protein%3B associates in homodimers%3B contains central transmembrane region%3B gene expression: late%3B protein synthesis: late;gbkey=CDS;gene=O61R;product=structural protein p12;protein_id=AAA65327.1
+U18466.2	Genbank	gene	112254	116606	.	-	.	ID=gene-NP1450L;Name=NP1450L;gbkey=Gene;gene=NP1450L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	112254	116606	.	-	0	ID=cds-AAA65328.1;Parent=gene-NP1450L;Dbxref=NCBI_GP:AAA65328.1;Name=AAA65328.1;Note=gene expression: late;gbkey=CDS;gene=NP1450L;product=RNA polymerase subunit 1;protein_id=AAA65328.1
+U18466.2	Genbank	gene	116689	117948	.	-	.	ID=gene-NP419L;Name=NP419L;gbkey=Gene;gene=NP419L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	116689	117948	.	-	0	ID=cds-AAA65329.1;Parent=gene-NP419L;Dbxref=NCBI_GP:AAA65329.1;Name=AAA65329.1;Note=protein synthesis: early;gbkey=CDS;gene=NP419L;product=DNA ligase;protein_id=AAA65329.1
+U18466.2	Genbank	gene	118013	120619	.	+	.	ID=gene-NP868R;Name=NP868R;gbkey=Gene;gene=NP868R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	118013	120619	.	+	0	ID=cds-AAA65330.1;Parent=gene-NP868R;Dbxref=NCBI_GP:AAA65330.1;Name=AAA65330.1;Note=structural protein;gbkey=CDS;gene=NP868R;product=guanylyltransferase;protein_id=AAA65330.1
+U18466.2	Genbank	gene	120676	121428	.	+	.	ID=gene-D250R;Name=D250R;gbkey=Gene;gene=D250R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	120676	121428	.	+	0	ID=cds-AAA65331.1;Parent=gene-D250R;Dbxref=NCBI_GP:AAA65331.1;Name=AAA65331.1;Note=product contains region conserved in MutT-like proteins%3B nudix hydrolase%2C possesses mRNA decapping activity;gbkey=CDS;gene=D250R;product=8-hydroxy-dGTPase;protein_id=AAA65331.1
+U18466.2	Genbank	gene	121609	121998	.	-	.	ID=gene-D129L;Name=D129L;gbkey=Gene;gene=D129L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	121609	121998	.	-	0	ID=cds-AAA65332.1;Parent=gene-D129L;Dbxref=NCBI_GP:AAA65332.1;Name=AAA65332.1;Note=putative;gbkey=CDS;gene=D129L;product=pD129L;protein_id=AAA65332.1
+U18466.2	Genbank	gene	122071	122310	.	-	.	ID=gene-D79L;Name=D79L;gbkey=Gene;gene=D79L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	122071	122310	.	-	0	ID=cds-AAA65333.1;Parent=gene-D79L;Dbxref=NCBI_GP:AAA65333.1;Name=AAA65333.1;Note=putative product contains S100_CABP motif (EF-hand-like signature);gbkey=CDS;gene=D79L;product=pD79L;protein_id=AAA65333.1
+U18466.2	Genbank	gene	122379	123398	.	-	.	ID=gene-D339L;Name=D339L;gbkey=Gene;gene=D339L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	122379	123398	.	-	0	ID=cds-AAA65334.1;Parent=gene-D339L;Dbxref=NCBI_GP:AAA65334.1;Name=AAA65334.1;Note=contains a protein-protein interaction SHS2 domain with an architecture SHS2_Rpb7-N (pfam03876)%2C characteristic of the SHS2 domains found in N-terminus of the archaeo-eukaryotic RNA polymerase II subunit 7 (RPB7)%3B RNA polymerase subunit 7;gbkey=CDS;gene=D339L;product=pD339L;protein_id=AAA65334.1
+U18466.2	Genbank	gene	123531	126932	.	-	.	ID=gene-D1133L;Name=D1133L;gbkey=Gene;gene=D1133L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	123531	126932	.	-	0	ID=cds-AAA65335.1;Parent=gene-D1133L;Dbxref=NCBI_GP:AAA65335.1;Name=AAA65335.1;Note=member of helicase superfamily II group including vaccinia D11L and D6R%2C and ASFV pQ706L%3B contains helix-turn-helix motif%3B gene expression: late%3B putative  transcription factor;gbkey=CDS;gene=D1133L;product=helicase;protein_id=AAA65335.1
+U18466.2	Genbank	gene	127163	127516	.	-	.	ID=gene-D117L;Name=D117L;gbkey=Gene;gene=D117L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	127163	127516	.	-	0	ID=cds-AAA65336.1;Parent=gene-D117L;Dbxref=NCBI_GP:AAA65336.1;Name=AAA65336.1;Note=putative transmembrane protein%3B contains central transmembrane region;gbkey=CDS;gene=D117L;product=structural protein p17;protein_id=AAA65336.1
+U18466.2	Genbank	gene	127573	128190	.	+	.	ID=gene-D205R;Name=D205R;gbkey=Gene;gene=D205R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	127573	128190	.	+	0	ID=cds-AAA65337.1;Parent=gene-D205R;Dbxref=NCBI_GP:AAA65337.1;Name=AAA65337.1;Note=putative;gbkey=CDS;gene=D205R;product=RNA polymerase subunit 5;protein_id=AAA65337.1
+U18466.2	Genbank	gene	128217	129254	.	-	.	ID=gene-D345L;Name=D345L;gbkey=Gene;gene=D345L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	128217	129254	.	-	0	ID=cds-AAA65338.1;Parent=gene-D345L;Dbxref=NCBI_GP:AAA65338.1;Name=AAA65338.1;Note=Lambda-like exonuclease;gbkey=CDS;gene=D345L;product=pD345L;protein_id=AAA65338.1
+U18466.2	Genbank	gene	129254	129805	.	-	.	ID=gene-S183L;Name=S183L;gbkey=Gene;gene=S183L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	129254	129805	.	-	0	ID=cds-AAA65339.1;Parent=gene-S183L;Dbxref=NCBI_GP:AAA65339.1;Name=AAA65339.1;Note=putative;gbkey=CDS;gene=S183L;product=pS183L;protein_id=AAA65339.1
+U18466.2	Genbank	gene	129866	130687	.	+	.	ID=gene-S273R;Name=S273R;gbkey=Gene;gene=S273R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	129866	130687	.	+	0	ID=cds-AAA65340.1;Parent=gene-S273R;Dbxref=NCBI_GP:AAA65340.1;Name=AAA65340.1;Note=gene expression: late%3B Ulp1 protease family%3Bproduct contains cell attachment sequence RGD%3B viral protease%2C processes the 220 and 60 kDa viral polyproteins;gbkey=CDS;gene=S273R;product=pS273R;protein_id=AAA65340.1
+U18466.2	Genbank	gene	130722	134300	.	+	.	ID=gene-P1192R;Name=P1192R;gbkey=Gene;gene=P1192R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	130722	134300	.	+	0	ID=cds-AAA65341.1;Parent=gene-P1192R;Dbxref=NCBI_GP:AAA65341.1;Name=AAA65341.1;Note=gene expression: late;gbkey=CDS;gene=P1192R;product=topoisomerase II;protein_id=AAA65341.1
+U18466.2	Genbank	gene	134331	135410	.	-	.	ID=gene-H359L;Name=H359L;gbkey=Gene;gene=H359L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	134331	135410	.	-	0	ID=cds-AAA65342.1;Parent=gene-H359L;Dbxref=NCBI_GP:AAA65342.1;Name=AAA65342.1;Note=putative product contains possible ATP- or GTP-binding motif;gbkey=CDS;gene=H359L;product=RNA polymerase subunit 3;protein_id=AAA65342.1
+U18466.2	Genbank	gene	135445	135960	.	+	.	ID=gene-H171R;Name=H171R;gbkey=Gene;gene=H171R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	135445	135960	.	+	0	ID=cds-AAA65343.1;Parent=gene-H171R;Dbxref=NCBI_GP:AAA65343.1;Name=AAA65343.1;Note=putative product contains tandem repeats%3B glutamine- and proline-rich;gbkey=CDS;gene=H171R;product=pH171R;protein_id=AAA65343.1
+U18466.2	Genbank	gene	136000	136374	.	+	.	ID=gene-H124R;Name=H124R;gbkey=Gene;gene=H124R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	136000	136374	.	+	0	ID=cds-AAA65344.1;Parent=gene-H124R;Dbxref=NCBI_GP:AAA65344.1;Name=AAA65344.1;Note=putative;gbkey=CDS;gene=H124R;product=pH124R;protein_id=AAA65344.1
+U18466.2	Genbank	gene	136396	137415	.	+	.	ID=gene-H339R;Name=H339R;gbkey=Gene;gene=H339R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	136396	137415	.	+	0	ID=cds-AAA65345.1;Parent=gene-H339R;Dbxref=NCBI_GP:AAA65345.1;Name=AAA65345.1;Note=putative;gbkey=CDS;gene=H339R;product=pH339R;protein_id=AAA65345.1
+U18466.2	Genbank	gene	137427	137753	.	+	.	ID=gene-H108R;Name=H108R;gbkey=Gene;gene=H108R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	137427	137753	.	+	0	ID=cds-AAA65346.1;Parent=gene-H108R;Dbxref=NCBI_GP:AAA65346.1;Name=AAA65346.1;Note=putative transmembrane protein%3B contains N-terminal transmembrane region%3B threonine- and isoleucine-rich;gbkey=CDS;gene=H108R;product=pH108R;protein_id=AAA65346.1
+U18466.2	Genbank	gene	137713	138414	.	+	.	ID=gene-H233R;Name=H233R;gbkey=Gene;gene=H233R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	137713	138414	.	+	0	ID=cds-AAA65347.1;Parent=gene-H233R;Dbxref=NCBI_GP:AAA65347.1;Name=AAA65347.1;Note=putative transmembrane protein%3B contains central transmembrane region;gbkey=CDS;gene=H233R;product=pH233R precursor;protein_id=AAA65347.1
+U18466.2	Genbank	gene	138529	139251	.	+	.	ID=gene-H240R;Name=H240R;gbkey=Gene;gene=H240R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	138529	139251	.	+	0	ID=cds-AAA65348.1;Parent=gene-H240R;Dbxref=NCBI_GP:AAA65348.1;Name=AAA65348.1;Note=putative;gbkey=CDS;gene=H240R;product=pH240R;protein_id=AAA65348.1
+U18466.2	Genbank	gene	139248	140144	.	-	.	ID=gene-R298L;Name=R298L;gbkey=Gene;gene=R298L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	139248	140144	.	-	0	ID=cds-AAA65349.1;Parent=gene-R298L;Dbxref=NCBI_GP:AAA65349.1;Name=AAA65349.1;Note=structural protein;gbkey=CDS;gene=R298L;product=serine protein kinase;protein_id=AAA65349.1
+U18466.2	Genbank	gene	140119	142239	.	-	.	ID=gene-Q706L;Name=Q706L;gbkey=Gene;gene=Q706L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	140119	142239	.	-	0	ID=cds-AAA65350.1;Parent=gene-Q706L;Dbxref=NCBI_GP:AAA65350.1;Name=AAA65350.1;Note=member of helicase superfamily II group including vaccinia D11L and D6R%2C and ASFV pD1133L%3B putative  transcription factor;gbkey=CDS;gene=Q706L;product=helicase;protein_id=AAA65350.1
+U18466.2	Genbank	gene	142197	143726	.	-	.	ID=gene-QP509L;Name=QP509L;gbkey=Gene;gene=QP509L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	142197	143726	.	-	0	ID=cds-AAA65351.1;Parent=gene-QP509L;Dbxref=NCBI_GP:AAA65351.1;Name=AAA65351.1;Note=member of helicase superfamily II group including human ERCC-3%2C vaccinia A18R and bacteriophage T5 D10%3B putative  transcription factor;gbkey=CDS;gene=QP509L;product=helicase;protein_id=AAA65351.1
+U18466.2	Genbank	gene	143716	144867	.	+	.	ID=gene-QP383R;Name=QP383R;gbkey=Gene;gene=QP383R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	143716	144867	.	+	0	ID=cds-AAA65352.1;Parent=gene-QP383R;Dbxref=NCBI_GP:AAA65352.1;Name=AAA65352.1;Note=similar to pyridoxal phosphate-dependent aminotransferases of class V;gbkey=CDS;gene=QP383R;product=NifS-like protein;protein_id=AAA65352.1
+U18466.2	Genbank	gene	144815	145369	.	-	.	ID=gene-E184L;Name=E184L;gbkey=Gene;gene=E184L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	144815	145369	.	-	0	ID=cds-AAA65353.1;Parent=gene-E184L;Dbxref=NCBI_GP:AAA65353.1;Name=AAA65353.1;Note=putative;gbkey=CDS;gene=E184L;product=pE184L;protein_id=AAA65353.1
+U18466.2	Genbank	gene	145413	145964	.	-	.	ID=gene-E183L;Name=E183L;gbkey=Gene;gene=E183L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	145413	145964	.	-	0	ID=cds-AAA65354.1;Parent=gene-E183L;Dbxref=NCBI_GP:AAA65354.1;Name=AAA65354.1;Note=transmembrane protein%3B contains N-terminal transmembrane region%3B contains tandem repeats%3B protein size varies in different isolates%3B threonine-%2C proline- and alanine-rich%3B gene expression: late%3B protein synthesis: late%3B structural%2C internal membrane protein p54;gbkey=CDS;gene=E183L;product=structural protein p54;protein_id=AAA65354.1
+U18466.2	Genbank	gene	145995	147266	.	+	.	ID=gene-E423R;Name=E423R;gbkey=Gene;gene=E423R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	145995	147266	.	+	0	ID=cds-AAA65355.1;Parent=gene-E423R;Dbxref=NCBI_GP:AAA65355.1;Name=AAA65355.1;Note=putative;gbkey=CDS;gene=E423R;product=pE423R;protein_id=AAA65355.1
+U18466.2	Genbank	gene	147419	148324	.	+	.	ID=gene-E301R;Name=E301R;gbkey=Gene;gene=E301R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	147419	148324	.	+	0	ID=cds-AAA65356.1;Parent=gene-E301R;Dbxref=NCBI_GP:AAA65356.1;Name=AAA65356.1;Note=putative;gbkey=CDS;gene=E301R;product=proliferating cell nuclear antigen-like protein;protein_id=AAA65356.1
+U18466.2	Genbank	gene	148358	148798	.	-	.	ID=gene-E146L;Name=E146L;gbkey=Gene;gene=E146L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	148358	148798	.	-	0	ID=cds-AAA65357.1;Parent=gene-E146L;Dbxref=NCBI_GP:AAA65357.1;Name=AAA65357.1;Note=putative transmembrane protein%3B contains N-terminal transmembrane region;gbkey=CDS;gene=E146L;product=pE146L;protein_id=AAA65357.1
+U18466.2	Genbank	gene	148982	149581	.	-	.	ID=gene-E199L;Name=E199L;gbkey=Gene;gene=E199L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	148982	149581	.	-	0	ID=cds-AAA65358.1;Parent=gene-E199L;Dbxref=NCBI_GP:AAA65358.1;Name=AAA65358.1;Note=putative transmembrane protein%3B contains C-terminal transmembrane region%3B cysteine-rich;gbkey=CDS;gene=E199L;product=pE199L;protein_id=AAA65358.1
+U18466.2	Genbank	gene	149609	150106	.	+	.	ID=gene-E165R;Name=E165R;gbkey=Gene;gene=E165R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	149609	150106	.	+	0	ID=cds-AAA65359.1;Parent=gene-E165R;Dbxref=NCBI_GP:AAA65359.1;Name=AAA65359.1;Note=gene expression: early and late;gbkey=CDS;gene=E165R;product=dUTPase;protein_id=AAA65359.1
+U18466.2	Genbank	gene	150129	150875	.	+	.	ID=gene-E248R;Name=E248R;gbkey=Gene;gene=E248R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	150129	150875	.	+	0	ID=cds-AAA65360.1;Parent=gene-E248R;Dbxref=NCBI_GP:AAA65360.1;Name=AAA65360.1;Note=putative transmembrane protein%3B contains C-terminal transmembrane region%3B asparagine-rich~structural protein%3Bbelongs to the superfamily of myristoylated proteins related to vaccinia virus L1R%3B interacts with pA151R%3B protein expression: late%3B component of the viral system for disulfide bond formation;gbkey=CDS;gene=E248R;product=pE248R;protein_id=AAA65360.1
+U18466.2	Genbank	gene	150917	151279	.	+	.	ID=gene-E120R;Name=E120R;gbkey=Gene;gene=E120R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	150917	151279	.	+	0	ID=cds-AAA65361.1;Parent=gene-E120R;Dbxref=NCBI_GP:AAA65361.1;Name=AAA65361.1;Note=DNA-binding protein%3B gene expression: late%3B structural protein p14.5%2C required for the release of the virus from the viral factories;gbkey=CDS;gene=E120R;product=structural protein p14.5;protein_id=AAA65361.1
+U18466.2	Genbank	gene	151309	152199	.	+	.	ID=gene-E296R;Name=E296R;gbkey=Gene;gene=E296R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	151309	152199	.	+	0	ID=cds-AAA65362.1;Parent=gene-E296R;Dbxref=NCBI_GP:AAA65362.1;Name=AAA65362.1;Note=protein is expressed at early times and accumulates at later times%3B class II apurinic/apyrimidinic (AP) endonuclease;gbkey=CDS;gene=E296R;product=AP endonuclease class II;protein_id=AAA65362.1
+U18466.2	Genbank	gene	152202	152537	.	+	.	ID=gene-E111R;Name=E111R;gbkey=Gene;gene=E111R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	152202	152537	.	+	0	ID=cds-AAA65363.1;Parent=gene-E111R;Dbxref=NCBI_GP:AAA65363.1;Name=AAA65363.1;Note=putative;gbkey=CDS;gene=E111R;product=pE111R;protein_id=AAA65363.1
+U18466.2	Genbank	gene	152614	152814	.	-	.	ID=gene-E66L;Name=E66L;gbkey=Gene;gene=E66L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	152614	152814	.	-	0	ID=cds-AAA65364.1;Parent=gene-E66L;Dbxref=NCBI_GP:AAA65364.1;Name=AAA65364.1;Note=putative;gbkey=CDS;gene=E66L;product=pE66L;protein_id=AAA65364.1
+U18466.2	Genbank	gene	152762	153565	.	-	.	ID=gene-I267L;Name=I267L;gbkey=Gene;gene=I267L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	152762	153565	.	-	0	ID=cds-AAA65365.1;Parent=gene-I267L;Dbxref=NCBI_GP:AAA65365.1;Name=AAA65365.1;Note=gene expression: early;gbkey=CDS;gene=I267L;product=pI267L;protein_id=AAA65365.1
+U18466.2	Genbank	gene	153717	154397	.	+	.	ID=gene-I226R;Name=I226R;gbkey=Gene;gene=I226R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	153717	154397	.	+	0	ID=cds-AAA65366.1;Parent=gene-I226R;Dbxref=NCBI_GP:AAA65366.1;Name=AAA65366.1;Note=gene expression: intermediate and late;gbkey=CDS;gene=I226R;product=pI226R;protein_id=AAA65366.1
+U18466.2	Genbank	gene	154394	155125	.	-	.	ID=gene-I243L;Name=I243L;gbkey=Gene;gene=I243L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	154394	155125	.	-	0	ID=cds-AAA65367.1;Parent=gene-I243L;Dbxref=NCBI_GP:AAA65367.1;Name=AAA65367.1;Note=TFIIS%3B cysteine-rich%3B gene expression: early%2C intermediate and late;gbkey=CDS;gene=I243L;product=transcription factor SII homolog;protein_id=AAA65367.1
+U18466.2	Genbank	gene	155210	155431	.	+	.	ID=gene-I73R;Name=I73R;gbkey=Gene;gene=I73R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	155210	155431	.	+	0	ID=cds-AAA65368.1;Parent=gene-I73R;Dbxref=NCBI_GP:AAA65368.1;Name=AAA65368.1;Note=gene expression: early;gbkey=CDS;gene=I73R;product=pI73R;protein_id=AAA65368.1
+U18466.2	Genbank	gene	155667	156656	.	-	.	ID=gene-I329L;Name=I329L;gbkey=Gene;gene=I329L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	155667	156656	.	-	0	ID=cds-AAA65369.1;Parent=gene-I329L;Dbxref=NCBI_GP:AAA65369.1;Name=AAA65369.1;Note=transmembrane protein%3B contains central transmembrane region%3B gene expression: late%3B inhibitor of the Toll-like receptor 3 (TLR3) signaling pathway;gbkey=CDS;gene=I329L;product=pI329L precursor;protein_id=AAA65369.1
+U18466.2	Genbank	gene	156964	157611	.	-	.	ID=gene-I215L;Name=I215L;gbkey=Gene;gene=I215L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	156964	157611	.	-	0	ID=cds-AAA65370.1;Parent=gene-I215L;Dbxref=NCBI_GP:AAA65370.1;Name=AAA65370.1;Note=gene expression: immediate-early;gbkey=CDS;gene=I215L;product=ubiquitin-conjugating enzyme;protein_id=AAA65370.1
+U18466.2	Genbank	gene	157649	158182	.	-	.	ID=gene-I177L;Name=I177L;gbkey=Gene;gene=I177L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	157649	158182	.	-	0	ID=cds-AAA65371.1;Parent=gene-I177L;Dbxref=NCBI_GP:AAA65371.1;Name=AAA65371.1;Note=putative transmembrane protein%3B contains N-terminal transmembrane region%3B gene expression: late;gbkey=CDS;gene=I177L;product=pI177L;protein_id=AAA65371.1
+U18466.2	Genbank	gene	158175	158765	.	-	.	ID=gene-I196L;Name=I196L;gbkey=Gene;gene=I196L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	158175	158765	.	-	0	ID=cds-AAA65372.1;Parent=gene-I196L;Dbxref=NCBI_GP:AAA65372.1;Name=AAA65372.1;Note=putative product contains tandem repeats%3B serine- and threonine-rich%3B gene expression: late;gbkey=CDS;gene=I196L;product=pI196L;protein_id=AAA65372.1
+U18466.2	Genbank	gene	158859	159575	.	-	.	ID=gene-DP238L;Name=DP238L;gbkey=Gene;gene=DP238L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	158859	159575	.	-	0	ID=cds-AAA65373.1;Parent=gene-DP238L;Dbxref=NCBI_GP:AAA65373.1;Name=AAA65373.1;Note=putative product is serine-rich%3B gene expression: early;gbkey=CDS;gene=DP238L;product=pDP238L;protein_id=AAA65373.1
+U18466.2	Genbank	gene	159752	160687	.	+	.	ID=gene-DP311R;Name=DP311R;gbkey=Gene;gene=DP311R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	159752	160687	.	+	0	ID=cds-AAA65374.2;Parent=gene-DP311R;Dbxref=NCBI_GP:AAA65374.2;Name=AAA65374.2;Note=member of multigene family 360%3B gene expression: early;gbkey=CDS;gene=DP311R;product=pDP311R;protein_id=AAA65374.2
+U18466.2	Genbank	gene	160617	160808	.	+	.	ID=gene-DP63R;Name=DP63R;gbkey=Gene;gene=DP63R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	160617	160808	.	+	0	ID=cds-AAA65375.1;Parent=gene-DP63R;Dbxref=NCBI_GP:AAA65375.1;Name=AAA65375.1;Note=member of multigene family 360;gbkey=CDS;gene=DP63R;product=pDP63R;protein_id=AAA65375.1
+U18466.2	Genbank	gene	160886	162514	.	-	.	ID=gene-DP542L;Name=DP542L;gbkey=Gene;gene=DP542L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	160886	162514	.	-	0	ID=cds-AAA65376.1;Parent=gene-DP542L;Dbxref=NCBI_GP:AAA65376.1;Name=AAA65376.1;Note=member of multigene family 505;gbkey=CDS;gene=DP542L;product=pDP542L;protein_id=AAA65376.1
+U18466.2	Genbank	gene	162633	163058	.	-	.	ID=gene-DP141L;Name=DP141L;gbkey=Gene;gene=DP141L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	162633	163058	.	-	0	ID=cds-AAA65377.1;Parent=gene-DP141L;Dbxref=NCBI_GP:AAA65377.1;Name=AAA65377.1;Note=member of multigene family 100;gbkey=CDS;gene=DP141L;product=pDP141L;protein_id=AAA65377.1
+U18466.2	Genbank	gene	163277	163717	.	-	.	ID=gene-DP146L;Name=DP146L;gbkey=Gene;gene=DP146L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	163277	163717	.	-	0	ID=cds-AAA65378.1;Parent=gene-DP146L;Dbxref=NCBI_GP:AAA65378.1;Name=AAA65378.1;Note=member of multigene family 100;gbkey=CDS;gene=DP146L;product=pDP146L;protein_id=AAA65378.1
+U18466.2	Genbank	gene	164082	164528	.	+	.	ID=gene-DP148R;Name=DP148R;gbkey=Gene;gene=DP148R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	164082	164528	.	+	0	ID=cds-AAA65379.1;Parent=gene-DP148R;Dbxref=NCBI_GP:AAA65379.1;Name=AAA65379.1;Note=member of multigene family 360;gbkey=CDS;gene=DP148R;product=pDP148R;protein_id=AAA65379.1
+U18466.2	Genbank	gene	164511	164726	.	-	.	ID=gene-DP71L;Name=DP71L;gbkey=Gene;gene=DP71L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	164511	164726	.	-	0	ID=cds-AAA65380.1;Parent=gene-DP71L;Dbxref=NCBI_GP:AAA65380.1;Name=AAA65380.1;Note=putative product is similar to mouse protein MyD116%2C Swiss-Prot Accession Number P17564%2C protein encoded by Cricetulus longicaudatus GADD34 gene%2C GenBank Accession Number L28147%2C HSV1 infected-cell protein (ICP34.5)%2C Swiss-Prot Accession Number P37319%2C and a partial protein sequence from Amsacta moorei entomopoxvirus%2C encoded by GenBank Accession Number M77182%3B gene expression: early;gbkey=CDS;gene=DP71L;product=pDP71L;protein_id=AAA65380.1
+U18466.2	Genbank	gene	164822	165112	.	+	.	ID=gene-DP96R;Name=DP96R;gbkey=Gene;gene=DP96R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	164822	165112	.	+	0	ID=cds-AAA65381.1;Parent=gene-DP96R;Dbxref=NCBI_GP:AAA65381.1;Name=AAA65381.1;Note=putative;gbkey=CDS;gene=DP96R;product=pDP96R;protein_id=AAA65381.1
+U18466.2	Genbank	gene	165725	166816	.	+	.	ID=gene-DP363R;Name=DP363R;gbkey=Gene;gene=DP363R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	165725	166816	.	+	0	ID=cds-AAA65382.1;Parent=gene-DP363R;Dbxref=NCBI_GP:AAA65382.1;Name=AAA65382.1;Note=member of multigene family 360%3B gene expression: early;gbkey=CDS;gene=DP363R;product=pDP363R;protein_id=AAA65382.1
+U18466.2	Genbank	gene	167481	167609	.	+	.	ID=gene-DP42R;Name=DP42R;gbkey=Gene;gene=DP42R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	167481	167609	.	+	0	ID=cds-AAA65383.1;Parent=gene-DP42R;Dbxref=NCBI_GP:AAA65383.1;Name=AAA65383.1;Note=member of multigene family 360;gbkey=CDS;gene=DP42R;product=pDP42R;protein_id=AAA65383.1
+U18466.2	Genbank	gene	167693	167875	.	+	.	ID=gene-DP60R;Name=DP60R;gbkey=Gene;gene=DP60R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	167693	167875	.	+	0	ID=cds-AAA65384.1;Parent=gene-DP60R;Dbxref=NCBI_GP:AAA65384.1;Name=AAA65384.1;Note=putative transmembrane protein%3B contains N-terminal transmembrane region;gbkey=CDS;gene=DP60R;product=pDP60R;protein_id=AAA65384.1
+U18466.2	Genbank	repeat_region	167931	170064	.	+	.	ID=id-U18466.2:167931..170064;Note=terminal inverted repeat;gbkey=repeat_region
+U18466.2	Genbank	gene	167950	168231	.	+	.	ID=gene-DP93R;Name=DP93R;gbkey=Gene;gene=DP93R;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	167950	168231	.	+	0	ID=cds-AAA65385.1;Parent=gene-DP93R;Dbxref=NCBI_GP:AAA65385.1;Name=AAA65385.1;Note=putative transmembrane protein%3B identical to KP93L%3B contains central transmembrane region%3B contains tandem repeats%3B proline-rich;gbkey=CDS;gene=DP93R;product=pDP93R;protein_id=AAA65385.1
+U18466.2	Genbank	gene	168098	168358	.	-	.	ID=gene-DP86L;Name=DP86L;gbkey=Gene;gene=DP86L;gene_biotype=protein_coding
+U18466.2	Genbank	CDS	168098	168358	.	-	0	ID=cds-AAA65386.1;Parent=gene-DP86L;Dbxref=NCBI_GP:AAA65386.1;Name=AAA65386.1;Note=putative transmembrane protein%3B identical to KP86R%3B contains central transmembrane region%3B contains tandem repeats%3B cysteine-rich;gbkey=CDS;gene=DP86L;product=pDP86L;protein_id=AAA65386.1
+U18466.2	Genbank	stem_loop	170065	170101	.	+	.	ID=id-U18466.2:170065..170101;Note=single-stranded hairpin loop;gbkey=stem_loop
+
