@@ -24,7 +24,7 @@ with open(out, 'w') as f:
 		desc = tab[8]
 		extra = ''
 		if 'Note=' in desc:
-			extra = desc.split('Note=')[1].split(';')[0]
+			extra = desc.split('Note=')[1].split(';')[0].replace('%3B', ';').replace('%2C', ',')[:255]
 		if tab[2] not in ['gene', 'region']:
 			if 'Parent=' in desc:
 				xid = id2name[desc.split('Parent=')[1].split(';')[0]]
@@ -41,5 +41,5 @@ with open(out, 'w') as f:
 os.system('sort -k1,1 -k2,2n %s > tmp2' % out)
 #os.system('echo "track name=Genes type=bedDetail" > tmp1')
 #os.system('cat tmp1 tmp2 > tmp3')
-os.system('bedToBigBed -extraIndex=name -type=bed9+1 -tab tmp2 chrom.sizes %s' % out)
+os.system('bedToBigBed -as=genes_table.as -extraIndex=name,geneProduct -type=bed9+1 -tab tmp2 chrom.sizes %s' % out)
 #os.system('rm tmp2')
