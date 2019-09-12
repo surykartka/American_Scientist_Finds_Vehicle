@@ -7,6 +7,7 @@ visibility pack
 itemRgb On
 type bigBed 9 +
 bigDataUrl bbi/genes.bb
+searchIndex name,geneProduct
 
 track RNA_early
 group RNA-seq
