@@ -10,7 +10,7 @@ bigDataUrl bbi/genes.bb
 searchIndex name,geneProduct
 
 track TSS
-longLabel Predicted primary starts
+longLabel Predicted primary TSSs
 shortLabel pTSSs
 priority 100
 visibility pack
