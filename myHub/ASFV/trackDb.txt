@@ -9,6 +9,15 @@ type bigBed 9 +
 bigDataUrl bbi/genes.bb
 searchIndex name,geneProduct
 
+track TSS
+longLabel Predicted primary starts
+shortLabel pTSSs
+priority 100
+visibility pack
+itemRgb On
+type bigBed
+bigDataUrl bbi/158_pTSS_NA_pTSS_check_NEW_incl_alt_TSSs.bb
+
 track RNA_early
 group RNA-seq
 container multiWig
