@@ -1,2 +1,5 @@
+*.docx
 *.bam
 *.bam.bai
+*.fastq.gz
+*.fastq
