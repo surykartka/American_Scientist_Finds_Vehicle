@@ -12,3 +12,8 @@ name RNA-seq
 label RNA-seq
 priority 3
 defaultIsClosed 0
+
+name 3RNA-seq
+label 3RNA-seq
+priority 4
+defaultIsClosed 0
