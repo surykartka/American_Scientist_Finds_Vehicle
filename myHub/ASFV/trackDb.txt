@@ -364,3 +364,125 @@ bigDataUrl bbi/L-16h_2_R1_13A-5A-i7_trimmed.out.sorted_F_nt-1.bw
 
 
 
+
+
+
+
+
+track 3RNA_early_trimmed5As
+group 3RNA-seq
+container multiWig
+shortLabel 3RNA early trimmed5As
+longLabel 3RNA early 5h trimmed5As
+type bigWig
+#viewLimits 0:160
+visibility full
+aggregate transparentOverlay
+graphTypeDefault bar
+showSubtrackColorOnUi on
+windowingFunction maximum
+priority 80
+configurable on
+autoScale on
+
+track S1-5h_3cov_plus_trimmed5As
+longLabel 3RNA-seq early 5h S1 plus, 3' ends, trimmed5As
+shortLabel 3RNA early S1 plus trimmed5As
+group 3RNA-seq
+parent 3RNA_early_trimmed5As
+visibility pack
+type bigWig
+color 70,162,225
+bigDataUrl bbi/E-5h_1filtered.out.sorted_normR.bw
+
+track S1-5h_3cov_minus_trimmed5As
+longLabel 3RNA-seq early 5h S1 minus, 3' ends, trimmed5As
+shortLabel 3RNA early S1 minus trimmed5As
+group 3RNA-seq
+parent 3RNA_early_trimmed5As
+visibility pack
+type bigWig
+color 203,75,21
+bigDataUrl bbi/E-5h_1filtered.out.sorted_normF.bw
+
+track S2-5h_3cov_plus_trimmed5As
+longLabel 3RNA-seq early 5h S2 plus, 3' ends, trimmed5As
+shortLabel 3RNA early S2 plus trimmed5As
+group 3RNA-seq
+parent 3RNA_early_trimmed5As
+visibility pack
+type bigWig
+color 22,96,167
+bigDataUrl bbi/E-5h_2filtered.out.sorted_normR.bw
+
+track S2-5h_3cov_minus_trimmed5As
+longLabel 3RNA-seq early 5h S2 minus, 3' ends, trimmed5As
+shortLabel 3RNA early S2 minus trimmed5As
+group 3RNA-seq
+parent 3RNA_early_trimmed5As
+visibility pack
+type bigWig
+color 255,106,0
+bigDataUrl bbi/E-5h_2filtered.out.sorted_normF.bw
+
+
+track 3RNA_late_trimmed5As
+group 3RNA-seq
+container multiWig
+shortLabel 3RNA late trimmed5As
+longLabel 3RNA late 16h trimmed5As
+type bigWig
+#viewLimits 0:160
+visibility full
+aggregate transparentOverlay
+graphTypeDefault bar
+showSubtrackColorOnUi on
+windowingFunction maximum
+priority 80
+configurable on
+autoScale on
+
+track S3-16h_3cov_plus_trimmed5As
+longLabel 3RNA-seq late 16h S3 plus, 3' ends, trimmed5As
+shortLabel 3RNA late S3 plus trimmed5As
+group 3RNA-seq
+parent 3RNA_late_trimmed5As
+visibility pack
+type bigWig
+color 70,162,225
+bigDataUrl bbi/L-16h_1filtered.out.sorted_normR.bw
+
+track S3-16h_3cov_minus_trimmed5As
+longLabel 3RNA-seq late 16h S3 minus, 3' ends, trimmed5As
+shortLabel 3RNA late S3 minus trimmed5As
+group 3RNA-seq
+parent 3RNA_late_trimmed5As
+visibility pack
+type bigWig
+color 203,75,21
+bigDataUrl bbi/L-16h_1filtered.out.sorted_normF.bw
+
+track S4-16h_3cov_plus_trimmed5As
+longLabel 3RNA-seq late 16h S4 plus, 3' ends, trimmed5As
+shortLabel 3RNA late S4 plus trimmed5As
+group 3RNA-seq
+parent 3RNA_late_trimmed5As
+visibility pack
+type bigWig
+color 22,96,167
+bigDataUrl bbi/L-16h_2filtered.out.sorted_normR.bw
+
+track S4-16h_3cov_minus_trimmed5As
+longLabel 3RNA-seq late 16h S4 minus, 3' ends, trimmed5As
+shortLabel 3RNA late S4 minus trimmed5As
+group 3RNA-seq
+parent 3RNA_late_trimmed5As
+visibility pack
+type bigWig
+color 255,106,0
+bigDataUrl bbi/L-16h_2filtered.out.sorted_normF.bw
+
+
+
+
+
