@@ -16,7 +16,7 @@ priority 100
 visibility pack
 itemRgb On
 type bigBed
-bigDataUrl bbi/158_pTSS_NA_pTSS_check_NEW_incl_alt_TSSs.bb
+bigDataUrl bbi/SuppTable_pTSSs.bb
 
 track RNA_early
 group RNA-seq
