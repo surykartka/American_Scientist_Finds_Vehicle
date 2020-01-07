@@ -1,6 +1,7 @@
 import os
 
 gff = 'U18466.2.gff3'
+#gff = '153_gene_mRNA_CDS_5UTR_3UTR.gff3'
 out = 'genes.bb'
 
 id2name = {}

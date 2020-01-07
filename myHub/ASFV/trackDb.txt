@@ -18,6 +18,15 @@ itemRgb On
 type bigBed
 bigDataUrl bbi/SuppTable_pTSSs.bb
 
+track TTS
+longLabel Predicted primary terminators
+shortLabel pTTSs
+priority 100
+visibility pack
+itemRgb On
+type bigBed
+bigDataUrl bbi/terminators.bb
+
 track RNA_early
 group RNA-seq
 container multiWig
