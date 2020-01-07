@@ -6,7 +6,7 @@ priority 100
 visibility pack
 itemRgb On
 type bigBed 9 +
-bigDataUrl bbi/genes.bb
+bigDataUrl bbi/genes2.bb
 searchIndex name,geneProduct
 
 track TSS

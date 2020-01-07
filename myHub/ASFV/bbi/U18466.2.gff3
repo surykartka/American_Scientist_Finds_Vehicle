@@ -309,4 +309,10 @@ U18466.2	Genbank	CDS	167950	168231	.	+	0	ID=cds-AAA65385.1;Parent=gene-DP93R;Dbx
 U18466.2	Genbank	gene	168098	168358	.	-	.	ID=gene-DP86L;Name=DP86L;gbkey=Gene;gene=DP86L;gene_biotype=protein_coding
 U18466.2	Genbank	CDS	168098	168358	.	-	0	ID=cds-AAA65386.1;Parent=gene-DP86L;Dbxref=NCBI_GP:AAA65386.1;Name=AAA65386.1;Note=putative transmembrane protein%3B identical to KP86R%3B contains central transmembrane region%3B contains tandem repeats%3B cysteine-rich;gbkey=CDS;gene=DP86L;product=pDP86L;protein_id=AAA65386.1
 U18466.2	Genbank	stem_loop	170065	170101	.	+	.	ID=id-U18466.2:170065..170101;Note=single-stranded hairpin loop;gbkey=stem_loop
-
+U18466.2	PRJNA590857 	CDS	13053	13435	.	+	.	ID=gene154;Name=pNG1
+U18466.2	PRJNA590857 	CDS	29827	30091	.	-	.	ID=gene155;Name=pNG2
+U18466.2	PRJNA590857 	CDS	12664	12896	.	+	.	ID=gene155;Name=pNG3
+U18466.2	PRJNA590857 	CDS	10583	10835	.	+	.	ID=gene156;Name=pNG4
+U18466.2	PRJNA590857 	CDS	29817	30080	.	+	.	ID=gene157;Name=pNG5
+U18466.2	PRJNA590857 	CDS	167005	167336	.	+	.	ID=gene158;Name=pNG6
+U18466.2	PRJNA590857 	CDS	10484	10616	.	+	.	ID=gene159;Name=pNG7
