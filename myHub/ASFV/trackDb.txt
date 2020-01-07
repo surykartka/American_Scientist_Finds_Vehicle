@@ -16,7 +16,7 @@ priority 100
 visibility pack
 itemRgb On
 type bigBed
-bigDataUrl bbi/SuppTable_pTSSs.bb
+bigDataUrl bbi/158_pTSS_NA_pTSS_check_NEW_incl_alt_TSSs.bb
 
 track TTS
 longLabel Predicted primary terminators
