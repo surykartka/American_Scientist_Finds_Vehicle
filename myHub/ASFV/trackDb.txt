@@ -1,5 +1,5 @@
 track genes
-longLabel Gene annotations
+longLabel Coding gene regions
 shortLabel Genes
 group genes
 priority 100
